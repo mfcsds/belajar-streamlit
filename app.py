@@ -27,3 +27,5 @@ color = st.select_slider(
     ],
 )
 st.write("My favorite color is", color)
+
+st.write("this will be shown on the latest deploy")
